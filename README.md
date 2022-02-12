@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Ashutosh Kumar Singh, currently pursuing my Bachelor's Degree in Information Technology from [College of Technology, GBPUAT](http://gbpuat-tech.ac.in/index.php). I am a tech enthusiast & an open-source advocate. You can connect with me here: [![Gmail Badge](https://img.shields.io/badge/-ashutosh44ks@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashutosh44ks@gmail.com)](mailto:kanna6501@gmail.com) 
+I am Ashutosh Kumar Singh, currently pursuing my Bachelor's Degree in Information Technology from [College of Technology, GBPUAT](http://gbpuat-tech.ac.in/index.php). I am a tech enthusiast & an open-source advocate. You can connect with me here: [![Gmail Badge](https://img.shields.io/badge/-ashutosh44ks@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashutosh44ks@gmail.com)](mailto:ashutosh44ks@gmail.com) 
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-ashutosh44ks-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashutosh44ks/)](https://www.linkedin.com/in/ashutosh44ks/) -->
 
 
