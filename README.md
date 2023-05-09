@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently pursuing my Bachelor's Degree in Information Technology from [College of Technology, GBPUAT](http://gbpuat-tech.ac.in/index.php). Proficient in frontend technologies like CSS and Javascript framework ReactJS with extensive knowledge of UX and user psychology. You can connect with me here: [![Gmail Badge](https://img.shields.io/badge/-ashutosh44ks@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashutosh44ks@gmail.com)](mailto:ashutosh44ks@gmail.com) 
+I'm currently pursuing my Bachelor's Degree in Information Technology from [College of Technology, GBPUAT](http://gbpuat-tech.ac.in/index.php). Proficient in frontend technologies like CSS and Javascript framework ReactJS with extensive knowledge of UX and user psychology. Recently started working with backend technologies. You can connect with me here: [![Gmail Badge](https://img.shields.io/badge/-ashutosh44ks@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashutosh44ks@gmail.com)](mailto:ashutosh44ks@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-ashutosh44ks-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashutosh44ks/)](https://www.linkedin.com/in/ashutosh44ks/)
 
 
@@ -29,6 +29,7 @@ I'm currently pursuing my Bachelor's Degree in Information Technology from [Coll
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
