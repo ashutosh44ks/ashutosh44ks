@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently pursuing my Bachelor's Degree in Information Technology from [College of Technology, GBPUAT](http://gbpuat-tech.ac.in/index.php). Proficient in frontend technologies like CSS and Javascript framework ReactJS with extensive knowledge of UX and user psychology. Recently started working with backend technologies. You can connect with me here: [![Gmail Badge](https://img.shields.io/badge/-ashutosh44ks@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashutosh44ks@gmail.com)](mailto:ashutosh44ks@gmail.com) 
+I recently completed my Bachelor's Degree in Information Technology from [College of Technology, GBPUAT](http://gbpuat-tech.ac.in/index.php). Proficient in frontend technologies like CSS and Javascript framework ReactJS with extensive knowledge of UX and user psychology. Recently started working with backend technologies. You can connect with me here: [![Gmail Badge](https://img.shields.io/badge/-ashutosh44ks@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashutosh44ks@gmail.com)](mailto:ashutosh44ks@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-ashutosh44ks-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashutosh44ks/)](https://www.linkedin.com/in/ashutosh44ks/)
 
 
