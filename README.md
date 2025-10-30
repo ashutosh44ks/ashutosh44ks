@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a frontend developer with around 2 years of experience. Proficient in frontend technologies like React. Javascript and Typescript. I've extensive knowledge in modern web-dev trends and building scalable applications, focusing on delivering a good user experience. Open to opportunities, connect with me here: [![Gmail Badge](https://img.shields.io/badge/-ashutosh44ks@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashutosh44ks@gmail.com)](mailto:ashutosh44ks@gmail.com) 
+I'm a frontend developer with around 3 years of experience. Proficient in frontend technologies like React. Javascript and Typescript. I've extensive knowledge in modern web-dev trends and building scalable applications, focusing on delivering a good user experience. Open to opportunities, connect with me here: [![Gmail Badge](https://img.shields.io/badge/-ashutosh44ks@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashutosh44ks@gmail.com)](mailto:ashutosh44ks@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-ashutosh44ks-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashutosh44ks/)](https://www.linkedin.com/in/ashutosh44ks/)
 
 ## ⚡ Technologies
