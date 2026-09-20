@@ -45,7 +45,4 @@ I'm a frontend developer with around 3 years of experience. Proficient in fronte
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Jira](https://img.shields.io/badge/jira-%230a0fff.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ashutosh44ks&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh44ks&hide=TeX&layout=compact)
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ashutosh44ks)
